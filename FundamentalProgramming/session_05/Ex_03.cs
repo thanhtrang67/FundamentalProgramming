@@ -28,7 +28,6 @@ namespace FundamentalProgramming.session_05
                 Console.WriteLine($"{m} la so nguyen to");
             else
                 Console.WriteLine($"{m} khong phai so nguyen to");
-
         }
     }
 }
