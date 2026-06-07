@@ -31,7 +31,7 @@ namespace FundamentalProgramming.session_05
         }
 
         // Improve the next version that accept at least 1 parameter.
-        static int Max3_V2(params int[]a) 
+        static int Max3_V2(params int[] a) 
         {
             int max = a[0];
             foreach (int x in a)

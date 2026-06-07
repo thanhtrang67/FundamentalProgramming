@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>FundamentalProgramming.session_08.Ex_01</StartupObject>
+    <StartupObject>FundamentalProgramming.session_09.Ex_01</StartupObject>
   </PropertyGroup>
 
 </Project>
